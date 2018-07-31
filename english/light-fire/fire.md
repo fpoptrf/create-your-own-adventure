@@ -47,4 +47,5 @@ There is no conflict！
 [Sleep]
 [Have some chocolate coffee.](../coffee/coffee.md)
 
+[Drink some water.](../coffee/drink-water/drink.md)
 
